@@ -31,7 +31,7 @@ function postMessage() {
 
   body = {
     "bot_id" : botID,
-    "text" : "https://www.youtube.com/watch?v=AgjlkE6BL1o \n\nBills - 7 - 0 \n\nPanthers - 7 - 0 \n\nCardinals - 6 - 0 \n\nJaguars - 6 - 0 \n\nPackers - 6 - 0 \n\nTitans - 6 - 1 \n\nCowboys - 5 - 1 \n\nVikings - 5 - 1 \n\nRaiders - 5 - 2 \n\nJets - 4 - 2 \n\nChiefs - 4 - 2 \n\nFalcons - 4 - 2 \n\nGiants - 4 - 3 \n\nSeahawks - 4 - 3 \n\nBengals - 4 - 3 \n\nColts - 4 - 3 \n\nBears - 3 - 3 \n\nSaints - 3 - 4 \n\nRams - 3 - 4 \n\nBroncos - 2 - 4 \n\nSteelers - 2 - 4 \n\nPatriots - 2 - 5 \n\nRedskins - 2 - 5 \n\nRavens - 2 - 5 \n\nTexans - 1 - 5 \n\nBuccaneers - 1 - 5 \n\nBrowns - 1 - 5 \n\n49ers - 1 - 6 \n\nEagles - 0 - 7 \n\nLions - 0 - 7 \n\nChargers - 0 - 6 \n\nDolphins - 0 - 6"
+    "text" : "Panthers - 8 - 0\n\nBills - 7 - 0\n\nCardinals - 7 - 0\n\nJaguars - 6 - 1\n\nPackers - 6 - 1\n\nTitans - 6 - 2\n\nVikings - 6 - 1\n\nCowboys - 5 - 2\n\nRaiders - 5 - 2\n\nChiefs - 5 - 2\n\nFalcons - 5 - 2\n\nSeahawks - 5 - 3\n\nBengals - 5 - 3\n\nJets - 4 - 3\n\nGiants - 4 - 3\n\nColts - 4 - 3\n\nBears - 4 - 3\n\nSaints - 4 - 4\n\nRams - 3 - 5\n\nRedskins - 3 - 5\n\nBroncos - 2 - 5\n\nSteelers - 2 - 5\n\nPatriots - 2 - 5\n\nRavens - 3 - 5\n\nTexans - 2 - 5\n\nBuccaneers - 1 - 6\n\nBrowns - 1 - 6\n\n49ers - 1 - 7\n\nEagles - 1 - 7\n\nLions - 0 - 7\n\nChargers - 0 - 7\n\nDolphins - 0 - 7\n\n"
   };
 
   console.log('sending ' + botResponse + ' to ' + botID);
